@@ -1,0 +1,12 @@
+Problem to solve:
+I need a simple way of quickly separating items and their prices 
+from a receipt and a way for each individual to claim an item and 
+total up their total from the receipt.
+
+potential improvements:
+ - splitting costs between multiple people for certain items 
+ - recognizing commonly split items and automatically updating totals
+    without a claim 
+ - make sending payments easier by connecting to cash apps api 
+    https://developers.cash.app/docs/api/welcome
+ - 
